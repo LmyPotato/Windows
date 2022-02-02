@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/11/18 19:53:40。
+     1>项目“G:\VS2010工程\继承\继承\继承.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\VS-2013\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "菱形继承.cpp"
+         菱形继承.cpp
+       Link:
+         G:\VS-2013\software\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS2010工程\继承\Debug\继承.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\VS2010工程\继承\Debug\继承.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS2010工程\继承\Debug\继承.lib" /MACHINE:X86 "Debug\多继承语法.obj"
+         "Debug\继承中构造和析构的顺序.obj"
+         "Debug\继承中的对象模型.obj"
+         "Debug\继承同名成员处理方式.obj"
+         "Debug\继承同名静态成员处理方式.obj"
+         "Debug\继承方式.obj"
+         "Debug\继承的基本语法.obj"
+         "Debug\菱形继承.obj"
+         继承.vcxproj -> G:\VS2010工程\继承\Debug\继承.exe
+     1>已完成生成项目“G:\VS2010工程\继承\继承\继承.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.75

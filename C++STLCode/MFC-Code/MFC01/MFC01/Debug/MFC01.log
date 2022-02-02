@@ -1,0 +1,20 @@
+﻿生成启动时间为 2021/5/1 17:13:44。
+     1>项目“G:\Vs2013\MFC01\MFC01\MFC01.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         G:\VS-2013\Vs-2013安装包\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFC.cpp
+         MFC.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         G:\VS-2013\Vs-2013安装包\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt mfc01.c test.c
+         test.c
+         mfc01.c
+         正在生成代码...
+       Link:
+         G:\VS-2013\Vs-2013安装包\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Vs2013\MFC01\Debug\MFC01.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"G:\VS-2013\Vs-2013安装包\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\Vs2013\MFC01\Debug\MFC01.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Vs2013\MFC01\Debug\MFC01.lib" /MACHINE:X86 Debug\MFC.obj
+         Debug\mfc01.obj
+         Debug\test.obj
+         MFC01.vcxproj -> G:\Vs2013\MFC01\Debug\MFC01.exe
+     1>已完成生成项目“G:\Vs2013\MFC01\MFC01\MFC01.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.69

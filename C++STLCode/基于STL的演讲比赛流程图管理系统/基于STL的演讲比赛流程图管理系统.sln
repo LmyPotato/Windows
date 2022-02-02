@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基于STL的演讲比赛流程图管理系统", "基于STL的演讲比赛流程图管理系统\基于STL的演讲比赛流程图管理系统.vcxproj", "{2B60D8E0-AE13-4154-ADAD-67AC6FC2244E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B60D8E0-AE13-4154-ADAD-67AC6FC2244E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B60D8E0-AE13-4154-ADAD-67AC6FC2244E}.Debug|Win32.Build.0 = Debug|Win32
+		{2B60D8E0-AE13-4154-ADAD-67AC6FC2244E}.Release|Win32.ActiveCfg = Release|Win32
+		{2B60D8E0-AE13-4154-ADAD-67AC6FC2244E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿生成启动时间为 2021/6/23 21:44:33。
+     1>项目“G:\Vs2013Code\test\test\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtRccSetDependencies:
+         "G:\Qt\SoftWare\5.9\msvc2013_64\bin\rcc.exe" --list "test.qrc" > "x64\Debug\rcc_list.txt" 2> nul
+       QtWork:
+         Uic'ing test.ui...
+         Rcc'ing test.qrc...
+         Moc'ing test.h...
+          RCC: Warning: No resources in 'G:\Vs2013Code\test\test\test.qrc'.
+       ClCompile:
+         G:\VS-2013\Vs-2013安装包\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IG:\Qt\SoftWare\5.9\msvc2013_64\include /I.\GeneratedFiles\Debug /IG:\Qt\SoftWare\5.9\msvc2013_64\include\QtCore /IG:\Qt\SoftWare\5.9\msvc2013_64\include\QtGui /IG:\Qt\SoftWare\5.9\msvc2013_64\include\QtANGLE /IG:\Qt\SoftWare\5.9\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp test.cpp GeneratedFiles\qrc_test.cpp GeneratedFiles\Debug\moc_test.cpp
+         main.cpp
+         test.cpp
+         qrc_test.cpp
+         moc_test.cpp
+       Link:
+         G:\VS-2013\Vs-2013安装包\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Vs2013Code\test\x64\Debug\\test.exe" /NOLOGO /LIBPATH:G:\Qt\SoftWare\5.9\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Vs2013Code\test\x64\Debug\test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Vs2013Code\test\x64\Debug\test.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\test.obj
+         x64\Debug\qrc_test.obj
+         x64\Debug\moc_test.obj
+         test.vcxproj -> G:\Vs2013Code\test\x64\Debug\test.exe
+     1>已完成生成项目“G:\Vs2013Code\test\test\test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.22

@@ -1,0 +1,22 @@
+﻿生成启动时间为 2021/11/18 20:37:43。
+     1>项目“G:\VS2010工程\对象\对象\对象.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\VS-2013\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "深浅拷贝.cpp"
+         深浅拷贝.cpp
+       Link:
+         G:\VS-2013\software\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS2010工程\对象\Debug\对象.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\VS2010工程\对象\Debug\对象.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS2010工程\对象\Debug\对象.lib" /MACHINE:X86 "Debug\this指针.obj"
+         "Debug\初始化列表.obj"
+         "Debug\常函数和常对象.obj"
+         "Debug\成员变量和成员函数分开存储.obj"
+         "Debug\构造函数.obj"
+         "Debug\构造函数的调用规则.obj"
+         "Debug\深浅拷贝.obj"
+         "Debug\空指针访问对象.obj"
+         "Debug\类对象作为类成员.obj"
+         "Debug\静态成员函数.obj"
+         对象.vcxproj -> G:\VS2010工程\对象\Debug\对象.exe
+     1>已完成生成项目“G:\VS2010工程\对象\对象\对象.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.92

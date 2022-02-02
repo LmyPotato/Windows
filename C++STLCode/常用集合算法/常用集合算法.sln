@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "常用集合算法", "常用集合算法\常用集合算法.vcxproj", "{17D75F4E-497F-4A15-8A25-94D5D278867A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D75F4E-497F-4A15-8A25-94D5D278867A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17D75F4E-497F-4A15-8A25-94D5D278867A}.Debug|Win32.Build.0 = Debug|Win32
+		{17D75F4E-497F-4A15-8A25-94D5D278867A}.Release|Win32.ActiveCfg = Release|Win32
+		{17D75F4E-497F-4A15-8A25-94D5D278867A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
