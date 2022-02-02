@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="21-11-29~" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/21-11-29~" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/21-11-29~" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="1-29-移除所有元素.cpp" />
+		<Unit filename="1-29删除有序数组中的重复项.cpp" />
+		<Unit filename="12-01最后一个单词的长度.cpp" />
+		<Unit filename="12-01最大子数组和.cpp" />
+		<Unit filename="12-2-加1.cpp" />
+		<Unit filename="12-3-Sqrt(x).cpp" />
+		<Unit filename="12-3-二进制求和.cpp" />
+		<Unit filename="12-4-爬楼梯.cpp" />
+		<Unit filename="12-5-删除排序链表中的重复元素.cpp" />
+		<Unit filename="12-5-合并两个有序数组.cpp" />
+		<Unit filename="2-30-28. 实现strStr.cpp" />
+		<Unit filename="2-30-搜索插入位置.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

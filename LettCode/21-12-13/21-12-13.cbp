@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="21-12-13" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/21-12-13" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/21-12-13" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="12-13-155-最小栈.cpp" />
+		<Unit filename="12-13-160-相交链表.cpp" />
+		<Unit filename="12-14-168-Excel表列名称.cpp" />
+		<Unit filename="12-14167-两数之和II-输入有序数组.cpp" />
+		<Unit filename="12-15-169-多数元素.cpp" />
+		<Unit filename="12-15-171-Excel表列序号.cpp" />
+		<Unit filename="12-16-34-在排序数组中查找元素的第一个和最后一个位置.cpp" />
+		<Unit filename="12-16-35-搜索插入位置.cpp" />
+		<Unit filename="12-16-704-二分查找.cpp" />
+		<Unit filename="12-17-26-删除有序数组中的重复项.cpp" />
+		<Unit filename="12-17-283-移动零.cpp" />
+		<Unit filename="12-17-367-有效的完全平方数.cpp" />
+		<Unit filename="12-17-69-Sqrt(x).cpp" />
+		<Unit filename="12-18-844-比较含退格的字符串.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

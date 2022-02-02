@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="21-12-6~" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/21-12-6~" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/21-12-6~" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="12-06-100-相同的树.cpp" />
+		<Unit filename="12-06-94-二叉树的中序遍历.cpp" />
+		<Unit filename="12-07-101-对称二叉树.cpp" />
+		<Unit filename="12-07-104-二叉树的最大深度.cpp" />
+		<Unit filename="12-10-118-杨辉三角.cpp" />
+		<Unit filename="12-10-119-杨辉三角II.cpp" />
+		<Unit filename="12-10-121-买卖股票的最佳时机.cpp" />
+		<Unit filename="12-11-125-验证回文串.cpp" />
+		<Unit filename="12-11-136-只出现一次的数字.cpp" />
+		<Unit filename="12-12-141-环形链表.cpp" />
+		<Unit filename="12-12144-二叉树的前序遍历.cpp" />
+		<Unit filename="12-12145-二叉树的后序遍历.cpp" />
+		<Unit filename="12-8-108-将有序数组转换为二叉搜索树.cpp" />
+		<Unit filename="12-8-110-平衡二叉树.cpp" />
+		<Unit filename="12-9-111-二叉树的最小深度.cpp" />
+		<Unit filename="12-9-112-路径总和.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

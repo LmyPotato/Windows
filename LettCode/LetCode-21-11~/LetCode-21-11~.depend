@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1637743394 source:h:\letcode\letcode-21-11~\1-23-两数之和.cpp
+
+1637830758 source:h:\letcode\letcode-21-11~\2-24-整数反转.cpp
+
+1637833097 source:h:\letcode\letcode-21-11~\2-25-回文数.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
+1638183201 source:h:\lettcode\letcode-21-11~\1-23-两数之和.cpp
+	<iostream>
+	<vector>
+	<map>
+
+1637830758 source:h:\lettcode\letcode-21-11~\2-24-整数反转.cpp
+
+1637899307 source:h:\lettcode\letcode-21-11~\2-25-回文数.cpp
+
+1637988026 source:h:\lettcode\letcode-21-11~\1-26-罗马数字转整数.cpp
+
+1638076898 source:h:\lettcode\letcode-21-11~\5-27-最长公共前缀.cpp
+
+1638089047 source:h:\lettcode\letcode-21-11~\6-28-有效的括号.cpp
+
+1638792297 source:h:\lettcode\letcode-21-11~\6-28-合并两个有序链表.cpp
+

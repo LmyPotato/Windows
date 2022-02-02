@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="22-1-10" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/22-1-10" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/22-1-10" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="1-454.四数相加 II.cpp" />
+		<Unit filename="10-459.重复的子字符串.cpp" />
+		<Unit filename="11-232.用栈实现队列.cpp" />
+		<Unit filename="12-225.用队列实现栈.cpp" />
+		<Unit filename="13-20.有效的括号.cpp" />
+		<Unit filename="14-1047.删除字符串中的所有相邻重复项.cpp" />
+		<Unit filename="15-150.逆波兰表达式求值.cpp" />
+		<Unit filename="16-239.滑动窗口最大值.cpp" />
+		<Unit filename="17-347.前K个高频元素.cpp" />
+		<Unit filename="18-144.二叉树的前序遍历.cpp" />
+		<Unit filename="2-15.三数之和.cpp" />
+		<Unit filename="3-18.四数之和.cpp" />
+		<Unit filename="4-344.反转字符串.cpp" />
+		<Unit filename="5-541.反转字符串 II.cpp" />
+		<Unit filename="6-剑指Offer05.替换空格.cpp" />
+		<Unit filename="7-151.翻转字符串里的单词.cpp" />
+		<Unit filename="8-剑指Offer58-II.左旋转字符串.cpp" />
+		<Unit filename="9-28.实现 strStr().cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="myfunction.cpp" />
+		<Unit filename="myfunction.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

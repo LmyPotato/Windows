@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1641804151 source:h:\lettcode\22-1-10\1-454.四数相加 ii.cpp
+
+1642739423 source:h:\lettcode\22-1-10\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"myfunction.h"
+
+1641896581 source:h:\lettcode\22-1-10\2-15.三数之和.cpp
+
+1641906103 source:h:\lettcode\22-1-10\3-18.四数之和.cpp
+
+1641910860 source:h:\lettcode\22-1-10\4-344.反转字符串.cpp
+
+1641957136 source:h:\lettcode\22-1-10\5-541.反转字符串 ii.cpp
+
+1642001771 source:h:\lettcode\22-1-10\6-剑指offer05.替换空格.cpp
+
+1641979652 source:h:\lettcode\22-1-10\7-151.翻转字符串里的单词.cpp
+
+1641997126 source:h:\lettcode\22-1-10\8-剑指offer58-ii.左旋转字符串.cpp
+
+1642059677 source:h:\lettcode\22-1-10\9-28.实现 strstr().cpp
+
+1642059651 source:h:\lettcode\22-1-10\10-459.重复的子字符串.cpp
+
+1642067617 source:h:\lettcode\22-1-10\11-232.用栈实现队列.cpp
+
+1642124917 source:h:\lettcode\22-1-10\12-225.用队列实现栈.cpp
+
+1642132162 source:h:\lettcode\22-1-10\13-20.有效的括号.cpp
+
+1642739270 source:h:\lettcode\22-1-10\myfunction.cpp
+	"myfunction.h"
+
+1642739406 h:\lettcode\22-1-10\myfunction.h
+	<iostream>
+	<vector>
+	<string>
+
+1642150668 source:h:\lettcode\22-1-10\14-1047.删除字符串中的所有相邻重复项.cpp
+
+1642155437 source:h:\lettcode\22-1-10\15-150.逆波兰表达式求值.cpp
+
+1642164269 source:h:\lettcode\22-1-10\16-239.滑动窗口最大值.cpp
+
+1642224527 source:h:\lettcode\22-1-10\17-347.前k个高频元素.cpp
+
+1642324889 source:h:\lettcode\22-1-10\18-144.二叉树的前序遍历.cpp
+

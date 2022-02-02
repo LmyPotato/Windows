@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1642410181 source:h:\lettcode\22-1-17\1-102.二叉树的层序遍历.cpp
+
+1642409896 source:h:\lettcode\22-1-17\main.cpp
+
+1642411562 source:h:\lettcode\22-1-17\2-107.二叉树的层序遍历 ii.cpp
+
+1642743139 h:\lettcode\22-1-17\myfunction.h
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<queue>
+
+1642417427 source:h:\lettcode\22-1-17\3-199.二叉树的右视图.cpp
+
+1642422156 source:h:\lettcode\22-1-17\4-637.二叉树的层平均值.cpp
+
+1642422099 source:h:\lettcode\22-1-17\5-429.n叉树的层序遍历.cpp
+
+1642424071 source:h:\lettcode\22-1-17\6-515.在每个树行中找最大值.cpp
+
+1642425771 source:h:\lettcode\22-1-17\7-116.填充每个节点的下一个右侧节点指针.cpp
+
+1642429289 source:h:\lettcode\22-1-17\8-117.填充每个节点的下一个右侧节点指针ii.cpp
+
+1642430056 source:h:\lettcode\22-1-17\9-104.二叉树的最大深度.cpp
+
+1642584555 source:h:\lettcode\22-1-17\10-111.二叉树的最小深度.cpp
+
+1642472643 source:h:\lettcode\22-1-17\11-226. 翻转二叉树.cpp
+
+1642504505 source:h:\lettcode\22-1-17\12-101.对称二叉树.cpp
+
+1642513634 source:h:\lettcode\22-1-17\13-100.相同的树.cpp
+
+1642517712 source:h:\lettcode\22-1-17\14-572.另一棵树的子树.cpp
+
+1642582928 source:h:\lettcode\22-1-17\15-104二叉树的最大深度.cpp
+
+1642582435 source:h:\lettcode\22-1-17\16-559.n叉树的最大深度.cpp
+
+1642679374 source:h:\lettcode\22-1-17\17-222.完全二叉树的节点个数.cpp
+
+1642686214 source:h:\lettcode\22-1-17\18-110.平衡二叉树.cpp
+
+1642729895 source:h:\lettcode\22-1-17\19-257.二叉树的所有路径.cpp
+
+1642770427 source:h:\lettcode\22-1-17\20-404.左叶子之和.cpp
+
+1642955857 source:h:\lettcode\22-1-17\myfunction.cpp
+	"myfunction.h"
+
+1642780344 source:h:\lettcode\22-1-17\21-513.找树左下角的值.cpp
+
+1642819188 source:h:\lettcode\22-1-17\112. 路径总和.cpp
+	<stack>
+	"myfunction.h"
+
+1642829885 source:h:\lettcode\22-1-17\22-112. 路径总和.cpp
+
+1642956086 source:h:\lettcode\22-1-17\23-113.路径总和 ii.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	"myfunction.h"
+
+1642859872 source:h:\lettcode\22-1-17\24-106.从中序与后序遍历序列构造二叉树.cpp
+
+1642865531 source:h:\lettcode\22-1-17\25-105.从前序与中序遍历序列构造二叉树.cpp
+
+1642953172 source:h:\lettcode\22-1-17\26-654. 最大二叉树.cpp
+
