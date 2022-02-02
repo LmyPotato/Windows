@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bear.png</file>
+        <file>Image/center.png</file>
+        <file>Image/clear.png</file>
+        <file>Image/close.png</file>
+        <file>Image/close1.png</file>
+        <file>Image/color.png</file>
+        <file>Image/help.png</file>
+        <file>Image/left.png</file>
+        <file>Image/lovely.png</file>
+        <file>Image/open.png</file>
+        <file>Image/right.png</file>
+        <file>Image/save.png</file>
+        <file>Image/send.png</file>
+        <file>Image/pen.png</file>
+        <file>Image/rect.png</file>
+        <file>Image/circle.png</file>
+        <file>Image/line.png</file>
+        <file>Image/txt.png</file>
+        <file>Image/rubber.png</file>
+        <file>Image/sunny.png</file>
+        <file>Image/Luffy.png</file>
+        <file>Image/1.jpg</file>
+        <file>Image/rectTree.png</file>
+        <file>Image/woman.png</file>
+        <file>Image/3.mp3</file>
+        <file>Image/1.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bold.png</file>
+        <file>Image/center .png</file>
+        <file>Image/center.png</file>
+        <file>Image/clear.png</file>
+        <file>Image/color.png</file>
+        <file>Image/face.png</file>
+        <file>Image/italic.png</file>
+        <file>Image/left.png</file>
+        <file>Image/right.png</file>
+        <file>Image/save.png</file>
+        <file>Image/sunny.png</file>
+        <file>Image/under.png</file>
+    </qresource>
+</RCC>
