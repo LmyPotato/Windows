@@ -108,3 +108,11 @@ VisuAlgo 也是一个优秀的数据结构与算法可视化网站，网站可�
 
 [C](https://github.com/tangtangcoding/C-CppLearning)
 
+# 22、论文搜索网站：
+
+[虫部落](https://scholar.chongbuluo.com/)
+
+# 23、知网：
+
+[知网论文](https://www.cnki.com.cn/)
+
